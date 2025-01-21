@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdrahmanalkautsar&show_icons=true&theme=radical"/>
-<img height="180em" src="https://camo.githubusercontent.com/734b3a1dab7379e94be9ad381e19cde4807ed4b1e90654334fd133b8b81d50ae/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d4162647261686d616e616c6b617574736172267468656d653d7265616374"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Abdrahmanalkautsar&theme=react"/>
 
 </div>
 
